@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ekj1D0iZTbK1C9Ia4258wvX5ua0vIzHzH5vVjuTuPJxmHKhqKZF65E794TFV7ZayLl2J3OqiJ2jilJptp5FqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Downloads\\MaterialDesignInXaml.Examples-master\\MVVM\\MVVM.Async\\MVVM.Async.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.0.0-preview4\\microsoft.toolkit.mvvm.7.0.0-preview4.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5/7xI3748Lbt9WPAs+yhzMFAotysbOBTr01AYuDNheuldyXIZ0zx5/EDBS3THtWeF6TKJJTLRa61MR3+TpWKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Downloads\\MaterialDesignInXaml.Examples-master\\MVVM\\MVVM.HamburgerNavigation\\MVVM.HamburgerNavigation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\materialdesigncolors\\2.0.3\\materialdesigncolors.2.0.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\materialdesignthemes\\4.2.1\\materialdesignthemes.4.2.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.0\\microsoft.toolkit.mvvm.7.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

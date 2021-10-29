@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v21A8onoy2/VwSdCC1GM3jVdoYd1iFZk6Ip+i2do8GiZAaQ4YW8qQyiZIb5/jQNxSMFXtn7uHpQFzY7WgfL7Hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Downloads\\MaterialDesignInXaml.Examples-master\\MVVM\\MVVM.DetailsView\\MVVM.DetailsView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\bogus\\31.0.2\\bogus.31.0.2.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\materialdesigncolors\\2.0.1\\materialdesigncolors.2.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\materialdesignthemes\\4.1.0\\materialdesignthemes.4.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.0.2\\microsoft.toolkit.mvvm.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
